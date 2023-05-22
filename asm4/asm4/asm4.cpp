@@ -8,6 +8,7 @@ int main()
 	char sist;
 	int num, b,k;
 	char res[20];
+	char sttataww[20];
 	int n = strlen(a);
 	bool f = false;
 	if (a[n-1]=='-')
