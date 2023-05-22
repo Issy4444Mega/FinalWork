@@ -15,7 +15,7 @@ int main()
 		a[n - 1]='\0';
 		f = true;
 	}
-
+	//sfadsfffffffffwefwaf
 	printf("Число %s в 4 \n", a);
 	int col = strlen(a);
 	_asm
