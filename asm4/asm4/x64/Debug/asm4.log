@@ -1,0 +1,102 @@
+﻿  asm4.cpp
+D:\Visual studio\asm4\asm4\asm4.cpp(10,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\Visual studio\asm4\asm4\asm4.cpp(12,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(12,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sist"
+D:\Visual studio\asm4\asm4\asm4.cpp(14,3): error C2065: lea: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(14,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+D:\Visual studio\asm4\asm4\asm4.cpp(14,7): error C2065: esi: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(16,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(16,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+D:\Visual studio\asm4\asm4\asm4.cpp(16,7): error C2065: ecx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(17,4): error C2760: синтаксическая ошибка: непредвиденный элемент "mov". Ожидается "{"
+D:\Visual studio\asm4\asm4\asm4.cpp(17,8): error C2065: eax: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(18,4): error C2146: синтаксическая ошибка: отсутствие "," перед идентификатором "mov"
+D:\Visual studio\asm4\asm4\asm4.cpp(22,3): error C2065: cmp: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(22,7): error C2065: esi: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(23,3): error C2065: jne: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(23,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "to_Int"
+D:\Visual studio\asm4\asm4\asm4.cpp(23,7): error C2065: to_Int: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(24,3): error C2065: add: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(24,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+D:\Visual studio\asm4\asm4\asm4.cpp(24,7): error C2065: esi: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(27,3): error C2065: imul: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(27,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cx"
+D:\Visual studio\asm4\asm4\asm4.cpp(27,8): error C2065: cx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(28,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(28,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+D:\Visual studio\asm4\asm4\asm4.cpp(28,7): error C2065: bl: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(28,16): error C2760: синтаксическая ошибка: непредвиденный элемент ";". Ожидается "{"
+D:\Visual studio\asm4\asm4\asm4.cpp(29,3): error C2065: cmp: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(29,7): error C2146: синтаксическая ошибка: отсутствие "," перед идентификатором "bl"
+D:\Visual studio\asm4\asm4\asm4.cpp(30,3): error C2065: je: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(30,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "endto_Int"
+D:\Visual studio\asm4\asm4\asm4.cpp(30,6): error C2065: endto_Int: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(31,3): error C2065: sub: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(31,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+D:\Visual studio\asm4\asm4\asm4.cpp(31,7): error C2065: bl: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(32,3): error C2065: cmp: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(32,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+D:\Visual studio\asm4\asm4\asm4.cpp(32,7): error C2065: bl: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(33,3): error C2065: jge: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(33,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "err"
+D:\Visual studio\asm4\asm4\asm4.cpp(33,7): error C2065: err: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(34,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(34,7): error C2065: esi: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(34,13): error C2065: bl: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(35,3): error C2065: add: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(35,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+D:\Visual studio\asm4\asm4\asm4.cpp(35,7): error C2065: ax: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(35,11): error C2065: bx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(36,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(36,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "num"
+D:\Visual studio\asm4\asm4\asm4.cpp(36,12): error C2065: eax: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(37,3): error C2065: add: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(37,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+D:\Visual studio\asm4\asm4\asm4.cpp(37,7): error C2065: esi: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(38,3): error C2065: jmp: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(38,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "to_Int"
+D:\Visual studio\asm4\asm4\asm4.cpp(38,7): error C2065: to_Int: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(41,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(41,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cx"
+D:\Visual studio\asm4\asm4\asm4.cpp(41,7): error C2065: cx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(42,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(42,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b"
+D:\Visual studio\asm4\asm4\asm4.cpp(45,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(45,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\Visual studio\asm4\asm4\asm4.cpp(45,7): error C2065: eax: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(46,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(46,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+D:\Visual studio\asm4\asm4\asm4.cpp(46,7): error C2065: ebx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(46,12): error C2065: eax: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(47,3): error C2065: cdq: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(48,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(48,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "si"
+D:\Visual studio\asm4\asm4\asm4.cpp(48,7): error C2065: si: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(49,3): error C2065: idiv: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(49,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "si"
+D:\Visual studio\asm4\asm4\asm4.cpp(49,8): error C2065: si: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(50,3): error C2065: imul: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(50,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+D:\Visual studio\asm4\asm4\asm4.cpp(50,8): error C2065: ecx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(51,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(51,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "num"
+D:\Visual studio\asm4\asm4\asm4.cpp(51,12): error C2065: eax: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(52,3): error C2065: imul: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(52,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+D:\Visual studio\asm4\asm4\asm4.cpp(52,8): error C2065: edx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(52,13): error C2065: ecx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(53,3): error C2065: add: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(53,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b"
+D:\Visual studio\asm4\asm4\asm4.cpp(53,10): error C2065: edx: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(54,3): error C2065: cmp: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(54,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "num"
+D:\Visual studio\asm4\asm4\asm4.cpp(55,3): error C2065: jge: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(55,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "tobin"
+D:\Visual studio\asm4\asm4\asm4.cpp(55,7): error C2065: tobin: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(57,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(57,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\Visual studio\asm4\asm4\asm4.cpp(57,7): error C2065: eax: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(58,3): error C2065: mov: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(58,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+D:\Visual studio\asm4\asm4\asm4.cpp(58,7): error C2065: eax: необъявленный идентификатор
+D:\Visual studio\asm4\asm4\asm4.cpp(58,10): fatal  error C1003: число ошибок превышает 100; остановка компиляции
