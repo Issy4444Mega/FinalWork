@@ -5,8 +5,11 @@ int main()
 	setlocale(LC_ALL, "Russian");
 
 	char a[] = "0111-";
-	char sist;
-	int num, b,k;
+	char sist; //системы счисления в которую переводим
+	int num; 
+	int b;
+	int k;
+	int s;
 	char res[20];
 	int n = strlen(a);
 	bool f = false;
