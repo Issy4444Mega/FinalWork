@@ -2,8 +2,11 @@
 
 int main()
 {
-	setlocale(LC_ALL, "Russian");
 
+	setlocale(LC_ALL, "Russian");
+	
+	char itvpd[20];//добавили новую переменую 
+	
 	char a[] = "0111-";
 	char sist; //системы счисления в которую переводим
 	int num; 
